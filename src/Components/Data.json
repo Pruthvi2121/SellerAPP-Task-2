@@ -12,7 +12,9 @@
             "size": "732 sft",
             "rent": "$4,255",
             "tag": "New York",
-            "popular": true
+            "popular": true,
+            "src":"https://cdn.britannica.com/05/157305-004-53D5D212.jpg"
+
         },
         {
             "id": 2,
@@ -25,7 +27,8 @@
             "size": "600 sqft",
             "rent": "$1,200",
             "tag": "Mumbai",
-            "popular": true
+            "popular": true,
+            "src":""
         },
         {
             "id": 3,
@@ -38,7 +41,8 @@
             "size": "1,200 sqft",
             "rent": "$2,500",
             "tag": "New York",
-            "popular": false
+            "popular": true,
+            "src":""
         },
         {
             "id": 4,
@@ -51,7 +55,8 @@
             "size": "2,500 sqft",
             "price": "$1,000,000",
             "tag": "London",
-            "popular": true
+            "popular": true,
+            "src":""
         },
         {
             "id": 5,
@@ -64,7 +69,8 @@
             "size": "1,800 sqft",
             "price": "$750,000",
             "tag": "Mumbai",
-            "popular": false
+            "popular": true,
+            "src":""
         },
         {
             "id": 6,
@@ -77,7 +83,8 @@
             "size": "700 sqft",
             "rent": "$1,400",
             "tag": "New York",
-            "popular": true
+            "popular": true,
+            "src":""
         },
         {
             "id": 7,
@@ -90,7 +97,8 @@
             "size": "3,000 sqft",
             "price": "$1,500,000",
             "tag": "London",
-            "popular": false
+            "popular": true,
+            "src":""
         },
         {
             "id": 8,
@@ -103,7 +111,8 @@
             "size": "1,000 sqft",
             "rent": "$2,000",
             "tag": "Paris",
-            "popular": true
+            "popular": true,
+            "src":""
         },
         {
             "id": 9,
@@ -116,7 +125,8 @@
             "size": "1,500 sqft",
             "rent": "$2,800",
             "tag": "London",
-            "popular": false
+            "popular": true,
+            "src":""
         },
         {
             "id": 10,
@@ -129,7 +139,8 @@
             "size": "2,200 sqft",
             "price": "$600,000",
             "tag": "New York",
-            "popular": true
+            "popular": true,
+            "src":""
         },
         {
             "id": 11,
@@ -142,7 +153,8 @@
             "size": "5,000 sqft",
             "price": "$2,500,000",
             "tag": "Paris",
-            "popular": false
+            "popular": true,
+            "src":""
         },
         {
             "id": 12,
